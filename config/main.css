@@ -4,8 +4,8 @@
 /* Variable configuration */
 :root {
   /* --background-color: #566eca; */
-  --background-color: #41444e;
-  --text-color: white;
+  --background-color: #a41111;
+  --text-color: rgb(227, 34, 130);
   --accent-color: #404040;
 }
 * {
